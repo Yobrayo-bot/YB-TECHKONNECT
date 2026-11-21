@@ -1,0 +1,2300 @@
+
+
+YB TECHKONNECT
+
+### YB TECHKONNECT
+
+### Connecting Problems. Delivering Solutions.
+
+Official working project identity
+
+| Project information    | Description                                |
+| ---------------------- | ------------------------------------------ |
+| Project name           | YB TECHKONNECT                             |
+| Product type           | Digital services marketplace               |
+| Initial market         | Kenya                                      |
+| Initial operating area | Kakamega, with room to expand              |
+| Platform               | Responsive web application                 |
+| Business owner         | Founder / Platform Administrator           |
+| Business model         | Commission, service fees and subscriptions |
+| Development approach   | Plan → Design → Build → Test → Launch      |
+| Initial capital        | Zero-capital development strategy          |
+| Long-term vision       | National technology-services marketplace   |
+
+### 1\. THE VISION AND PURPOSE
+
+### 1.1 What exactly is YB TECHKONNECT?
+
+YB TECHKONNECT is a digital marketplace that connects individuals, businesses and organisations experiencing technical problems with qualified service providers who can solve those problems.
+
+The platform acts as an intermediary between the person requiring a service and the person providing it.
+
+For example:
+
+A customer needs a website developed.
+
+They visit YB TECHKONNECT, create an account, describe their requirements, submit a service request and receive suitable technician recommendations or offers.
+
+A registered web developer receives the request, reviews it and submits a quotation.
+
+The customer chooses the developer.
+
+The work is completed, the customer confirms completion, and the platform records the transaction and applicable commission.
+
+This is the fundamental operation of our business.
+
+### 1.2 Our mission
+
+To make professional technical services accessible, discoverable, trustworthy and affordable by connecting customers with capable service providers through a single digital platform.
+
+### 1.3 Our vision
+
+To become a recognised digital services marketplace in Kenya and eventually expand into other African markets.
+
+### 1.4 Our core objectives
+
+* Help customers find reliable technical professionals.
+
+* Give independent technicians access to customers.
+
+* Create employment and income opportunities.
+
+* Reduce the difficulty of finding technical assistance.
+
+* Establish trust through verification and transparent reviews.
+
+* Provide businesses with convenient access to technical solutions.
+
+* Build a sustainable digital marketplace.
+
+### 2\. THE BUSINESS MODEL
+
+YB TECHKONNECT operates as a two-sided marketplace.
+
+CUSTOMERS
+
+People and organisations requiring services
+
+YB TECHKONNECT
+
+Discovery • Matching • Coordination • Trust • Transactions
+
+SERVICE PROVIDERS
+
+Technicians, developers and professionals
+
+YB TECHKONNECT doesn't necessarily employ every technician. Service providers operate independently under agreed platform terms.
+
+### 2.1 Revenue generation
+
+We will implement several income streams.
+
+| Revenue stream         | How YB earns                                |
+| ---------------------- | ------------------------------------------- |
+| Job commissions        | Percentage of completed jobs                |
+| Coordination fees      | Fee for arranging a service                 |
+| Premium memberships    | Paid technician visibility and benefits     |
+| Business subscriptions | Recurring business service packages         |
+| Featured listings      | Paid promotional placement                  |
+| Maintenance contracts  | Coordination of recurring IT services       |
+| Custom solutions       | Development of specialised business systems |
+
+### Example commission model
+
+Let's assume a technician receives a job worth KSh 2,000.
+
+Our illustrative commission is 15%.
+
+| Description        | Amount    |
+| ------------------ | --------- |
+| Customer payment   | KSh 2,000 |
+| Technician's share | KSh 1,700 |
+| YB commission      | KSh 300   |
+
+These are proposed figures, not final prices.
+
+We will decide the actual commission structure after researching customer willingness to pay and technician expectations.
+
+### Important payment decision
+
+For the first version, we can allow customers to pay technicians directly and record the agreed commission.
+
+Later, we can introduce integrated payments, potentially through M-Pesa.
+
+The platform must never pretend to hold customer funds or guarantee escrow protection before those capabilities are actually implemented.
+
+### 3\. TARGET USERS
+
+We will have four primary user groups.
+
+### 3.1 Customers
+
+![Confused Student at Desk with Laptop | Study Session Imagery | AI Art Generator | Easy-Peasy.AI](https://images.openai.com/static-rsc-4/U2afSgdBeopTrHcq43bemifQkh4SSaVYhWPgycfj_QXikQKmJ5y9W_uJ7X82ApLUOyDBtw1GxfQWHhsN0u5BkLFet1H5U3JqN1UkwCMV0bLXKBo2AHzbL6E0XmJ1Acv6IkC2DDSIHcATa5o6BnzXiDRJpCLl65CDmBIJJmnXBr11wfsfR5-0qbdGsXyp9Kb9?purpose=fullsize)
+
+Individual customers
+
+Students, freelancers, professionals and ordinary individuals who need technical assistance.
+
+![African woman entrepreneur, small business woman working with laptop in her textile store](https://images.openai.com/static-rsc-4/CSTu5r2OkHF58OhhV4hMolmMH41iXsMA4_F_yguC-IIUbb4nq3tBZPDqfHVuc_LQ394mG-g8vzQIzK9KYEtU-M2mCSL1GBdwXtKeigAvSs2agHTdJBm_9JDdW_0IQYz6GeBgQqWe3JB2o5JWpMiFnLBZHNy6_m593_RoRABk82JIkSqfDQSIUMBHe8y_qGfV?purpose=fullsize)
+
+Small businesses
+
+Shops, cybercafés, salons, restaurants and retail businesses.
+
+![Empowering Kenyan Students, One Computer at a Time - Turing Trust](https://images.openai.com/static-rsc-4/9Bn9rse59pGK6tRuD7XOm6ueoxNMSMwaEPJKrE-51In2FK1aGqdGtwoRZQApIwWPqmsAB-o6PE4t-U7QSi2_AM9Qx1qLJDIvp4JP7ug50e6s7re0vuaVnsZLkY4pIukOAXHjTMglcovrWApdhLg7WqQQxwxtG_wR93OxS-NaWoMJz3_KUmZ4UO0ata5s5SQi?purpose=fullsize)
+
+Institutions
+
+Schools, training centres, organisations and offices.
+
+![10+5 Online Businesses you Can Start in Kenya (2025 Updated) – TECHenya](https://images.openai.com/static-rsc-4/bTukQLQFGYArrpeKVVKJ5rgWoP4cVNOhx-VDgSA9Y5Zc13pfcQcL31H1RcXoMw0QPY3I0dJplWRUWpRRRKwE991Phd2k-Zyb2V9MWGeCUuNHla8klXMLMPRs99I-cJCg9D8p643Bc86geLK4wz52h5lmMMJ-KtUc9rroomNKJLkJ65wyMG9gMINutQzWorFq?purpose=fullsize)
+
+Entrepreneurs
+
+People who need websites, automation, software and digital infrastructure.
+
+### 3.2 Technicians and service providers
+
+These are the people who perform the actual work.
+
+Our initial service categories will be:
+
+| Category          | Example services                             |
+| ----------------- | -------------------------------------------- |
+| Computer services | Repairs, diagnostics, OS installation        |
+| Software services | Installation, configuration, troubleshooting |
+| Web development   | Websites, web applications                   |
+| Networking        | LAN, Wi-Fi, router configuration             |
+| Cybersecurity     | Security audits, hardening, awareness        |
+| Graphic design    | Logos, posters, branding                     |
+| Data services     | Excel, databases, data analysis              |
+| IT support        | Remote assistance, maintenance               |
+| Mobile technology | App troubleshooting and configuration        |
+| Automation        | Business automation and scripts              |
+
+We can add additional categories later.
+
+### 3.3 Business clients
+
+These are organisations that may need recurring technical support.
+
+Examples:
+
+* Schools.
+
+* Offices.
+
+* Retail businesses.
+
+* Hotels.
+
+* NGOs.
+
+* Training institutions.
+
+They may eventually have dedicated business accounts and service agreements.
+
+### 3.4 Platform administrators
+
+This is where YOU come in.
+
+You will control the platform through a dedicated administrator dashboard.
+
+You can:
+
+* Manage users.
+
+* Approve technicians.
+
+* Manage service categories.
+
+* Review service requests.
+
+* Monitor transactions.
+
+* Resolve disputes.
+
+* Control commissions.
+
+* Manage platform content.
+
+* Monitor business performance.
+
+### 4\. COMPLETE SYSTEM MODULES
+
+This is the most important section of the blueprint.
+
+I propose dividing YB TECHKONNECT into 18 major modules.
+
+### Platform module architecture
+
+Each module has a distinct responsibility but communicates with the others.
+
+01
+
+Public Website & Landing Page
+
+02
+
+Authentication & User Accounts
+
+03
+
+Customer Management
+
+04
+
+Technician Management
+
+05
+
+Service Categories
+
+06
+
+Service Request Management
+
+07
+
+Matching & Assignment Engine
+
+08
+
+Quotation & Bidding System
+
+09
+
+Booking & Scheduling
+
+10
+
+Messaging & Communication
+
+11
+
+Payments & Commissions
+
+12
+
+Reviews & Ratings
+
+13
+
+Notifications
+
+14
+
+Disputes & Support
+
+15
+
+Technician Verification
+
+16
+
+Analytics & Reporting
+
+17
+
+Admin Control Centre
+
+18
+
+Security & Audit
+
+Let's break down each module.
+
+### MODULE 01 — Public Website and Landing Page
+
+This is what visitors see when they first access YB TECHKONNECT.
+
+![DNA Technology Landing Page 3D Animation by Tridimensi on Dribbble](https://images.openai.com/static-rsc-4/kVVD0fnzmoPt2u5qu2zSQbSUDdvssoHQKk5DgPvVI0HN3JoaQONcqWm242QwElcrc1Q2sM65AwoZ3E46Qpb19faLZ8hCYHmZhcHCkr2FFd-ftWDUbEX_LJldCpDIpk2uFZz7forUDa66OSsDb4bMtyRCRZU2g1pZNLTAMwa2DyyyFFTUY_FW4bJkb5oZKLoQ?purpose=fullsize)
+
+It must immediately communicate what the business does.
+
+### Required sections
+
+* Navigation bar.
+
+* Hero section.
+
+* Search services section.
+
+* Browse categories.
+
+* How it works.
+
+* Featured technicians.
+
+* Why choose YB TECHKONNECT.
+
+* Customer testimonials.
+
+* Become a technician section.
+
+* Business solutions.
+
+* Frequently asked questions.
+
+* Footer.
+
+### Main navigation
+
+| Navigation         | Destination           |
+| ------------------ | --------------------- |
+| Home               | Main landing page     |
+| Find Services      | Service discovery     |
+| Browse Technicians | Technician directory  |
+| How It Works       | Explanation           |
+| For Technicians    | Provider registration |
+| For Businesses     | Business solutions    |
+| About Us           | Company information   |
+| Contact            | Contact page          |
+| Login              | Account access        |
+| Get Started        | Registration          |
+
+### Hero section
+
+Proposed headline:
+
+Every Technical Problem Deserves the Right Solution.
+
+Supporting text:
+
+"Connect with skilled professionals, discover reliable technical services and get your problems solved through YB TECHKONNECT."
+
+Primary buttons:
+
+* Find a Technician.
+
+* Become a Service Provider.
+
+The website must be responsive on mobile, tablet and desktop.
+
+### MODULE 02 — Authentication and User Accounts
+
+This module controls who can access the system.
+
+### Account types
+
+* Customer.
+
+* Technician.
+
+* Business customer.
+
+* Administrator.
+
+### Registration input form
+
+| Field            | Input type  | Required |
+| ---------------- | ----------- | -------- |
+| Full name        | Text        | Yes      |
+| Email            | Email       | Yes      |
+| Phone number     | Telephone   | Yes      |
+| Password         | Password    | Yes      |
+| Confirm password | Password    | Yes      |
+| Account type     | Selection   | Yes      |
+| County           | Dropdown    | Yes      |
+| Town             | Text/select | Yes      |
+| Terms acceptance | Checkbox    | Yes      |
+
+### Authentication features
+
+* Registration.
+
+* Login.
+
+* Logout.
+
+* Email verification.
+
+* Phone verification when implemented.
+
+* Password reset.
+
+* Secure password storage.
+
+* Session management.
+
+* Role-based access control.
+
+### Expected output
+
+After successful login, the system redirects the user to the appropriate dashboard.
+
+A customer must not accidentally access the technician dashboard or administrative panel.
+
+### MODULE 03 — Customer Management
+
+This module handles everything related to customers.
+
+### Customer profile
+
+A customer should have:
+
+* Profile picture.
+
+* Full name.
+
+* Email.
+
+* Phone number.
+
+* Location.
+
+* Account creation date.
+
+* Service request history.
+
+* Completed jobs.
+
+* Reviews.
+
+* Account status.
+
+### Customer dashboard
+
+![Local Service Finder UI by Fahema Yesmin on Dribbble](https://images.openai.com/static-rsc-4/E8pUZH5vRosxnlpIoXRgngpbwqO0DvZ0-L6TT3nO8WwcmnCy35szSSRL0DNOMeZbZw5w4Sa9IWtOz8IVTU87uKcAyq35t41CCPPpxqJmUXf9by4L3f5V25BJkWfz109ZqTx5tCFJMthKvm0LChN92n8_igBdy1lJxaUjGZYl7q5VNxYh5a71h_D1D0eus5x2?purpose=fullsize)
+
+The dashboard should display:
+
+| Dashboard component | Purpose                  |
+| ------------------- | ------------------------ |
+| Welcome panel       | Personal greeting        |
+| New Service Request | Create a job             |
+| Active Requests     | Current jobs             |
+| Pending Quotes      | Offers awaiting decision |
+| Active Bookings     | Scheduled services       |
+| Completed Jobs      | Service history          |
+| Messages            | Communication            |
+| Notifications       | Updates                  |
+| My Reviews          | Submitted feedback       |
+| Account Settings    | Profile management       |
+
+### Customer input forms
+
+A. Profile update form
+
+* Full name.
+
+* Phone number.
+
+* Email.
+
+* Profile photo.
+
+* County.
+
+* Town.
+
+* Preferred communication method.
+
+B. Service request form
+
+This will be explained in Module 06.
+
+### Expected output
+
+The customer can monitor the entire lifecycle of their requests.
+
+### MODULE 04 — Technician Management
+
+This is one of the most important modules.
+
+![AI-Native Technology Talent Marketplace | Troogue](https://images.openai.com/static-rsc-4/BkN_-GkIt43Ap2_fVf8O9rqGSs3-ywEh0OyOzgV1N6nfdxxuabYbdta5_81d2ZxMHfrMCAsuQUaY3w39okSxyiQXo-1pNj8cSg9MnNzrIlJk5PcIyIHHKZGdTi8JkjCnD-7j98k0gaOOD-DtOdHf8OPgLAXR-QEUKQ49kamBB459LFaWdfbIiypYX5Kr91fa?purpose=fullsize)
+
+Technicians must be able to register, advertise their services and receive job opportunities.
+
+### Technician registration form
+
+| Field                       | Input type        |
+| --------------------------- | ----------------- |
+| Full name                   | Text              |
+| Email                       | Email             |
+| Phone                       | Telephone         |
+| Profile picture             | Image upload      |
+| Professional title          | Text              |
+| Service categories          | Multi-select      |
+| Skills                      | Text/multi-select |
+| Experience                  | Number            |
+| Qualifications              | Text              |
+| Portfolio                   | URL/upload        |
+| County                      | Dropdown          |
+| Town                        | Text              |
+| Service radius              | Selection         |
+| Remote services available   | Yes/No            |
+| Physical services available | Yes/No            |
+| Availability                | Schedule          |
+| Short biography             | Text area         |
+
+### Verification documents
+
+Where appropriate:
+
+* Identity verification.
+
+* Relevant qualifications.
+
+* Portfolio evidence.
+
+* Professional references.
+
+Sensitive verification documents must not be publicly displayed.
+
+### Technician dashboard
+
+![Demandium - Multi Provider On Demand, Handyman, Home service App with admin panel by sixamtech](https://images.openai.com/static-rsc-4/WYUTXaZf-zRpa9bTHJ6Jn_tOL7QMohm2uEscYV_uQQSwMaLLYOeyVNkaTrPrT9GkQcecoQBwbdEst-nefVuZa3AKoy1dnSuzERDk7nuKkBsXYBlHaBVJviv4glvcH1taAjafchvQCSFCFyKktnHphXVY72roq-lFc1a8qS7SANE4q8QQg08l2V7-0qShuRf7?purpose=fullsize)
+
+It should contain:
+
+* Overview.
+
+* Available Jobs.
+
+* My Applications.
+
+* Active Jobs.
+
+* Quotations.
+
+* Calendar.
+
+* Messages.
+
+* Earnings.
+
+* Reviews.
+
+* Profile.
+
+* Verification status.
+
+* Settings.
+
+### Technician account statuses
+
+| Status    | Meaning                    |
+| --------- | -------------------------- |
+| Pending   | Awaiting verification      |
+| Verified  | Verification completed     |
+| Rejected  | Application rejected       |
+| Suspended | Temporarily disabled       |
+| Banned    | Access permanently revoked |
+
+A technician should only receive the privileges associated with their current status.
+
+### MODULE 05 — Service Categories Management
+
+This module organises services into categories and subcategories.
+
+Example:
+
+Computer Services
+
+* Laptop repair
+
+* Desktop repair
+
+* Windows installation
+
+* Linux installation
+
+* Data backup
+
+Web Development
+
+* Business websites
+
+* E-commerce websites
+
+* Web applications
+
+* Website maintenance
+
+Networking
+
+* Wi-Fi configuration
+
+* Router configuration
+
+* LAN installation
+
+* Network troubleshooting
+
+Cybersecurity
+
+* Security configuration
+
+* Authorised security assessments
+
+* Security awareness training
+
+* Backup and recovery planning
+
+### Administrator controls
+
+The administrator should be able to:
+
+* Create categories.
+
+* Edit categories.
+
+* Delete or deactivate categories.
+
+* Create subcategories.
+
+* Add descriptions.
+
+* Upload category icons.
+
+* Control category visibility.
+
+This is important because we should not need to edit source code every time we want to introduce a new service category.
+
+### MODULE 06 — Service Request Management
+
+Core platform module
+
+This is where the business actually starts operating.
+
+Customers submit problems, and the platform stores them as service requests.
+
+### Customer service request form
+
+![How To Create a Customer Portal from Scratch in 4 Steps - ManyRequests](https://images.openai.com/static-rsc-4/nmrSI8-PI0QNxxGJBxIc5oq6L8JzKNuuNMReAjojCXcmgE3yymnjz9mL7EsXuOnl9pFkO0Fr9Jo2MyRakp1R8uoK3v19cidkfddyUzR_d1LQ9XNjlqdTG_r9ShR3rj8YSF84IRqAmNcTRyTP-vjZJv2KLDf9D8sY3rqeJJz7sopxJg-dnZ7qr9RnXUO6I8bH?purpose=fullsize)
+
+| Field                  | Input type     | Description               |
+| ---------------------- | -------------- | ------------------------- |
+| Request title          | Text           | Short problem description |
+| Service category       | Dropdown       | Type of service           |
+| Subcategory            | Dropdown       | Specific service          |
+| Detailed description   | Text area      | Explain the problem       |
+| Location               | Text/select    | Where service is needed   |
+| Preferred service mode | Selection      | Remote or physical        |
+| Budget                 | Number/range   | Expected budget           |
+| Preferred date         | Date picker    | Desired date              |
+| Preferred time         | Time selection | Desired time              |
+| Attachments            | File upload    | Images/documents          |
+| Urgency                | Selection      | Normal or urgent          |
+| Contact preference     | Selection      | Phone/email/platform      |
+
+### Example
+
+A customer submits:
+
+* Title: Laptop not displaying anything.
+
+* Category: Computer services.
+
+* Description: Power button lights up, but the screen remains black.
+
+* Location: Kakamega.
+
+* Service mode: Physical.
+
+* Budget: KSh 1,000–2,000.
+
+* Urgency: Normal.
+
+The platform generates a unique request reference.
+
+Example:
+
+YBT-REQ-000001
+
+### Expected system output
+
+The customer receives:
+
+* Request confirmation.
+
+* Unique reference number.
+
+* Request status.
+
+* Notification.
+
+* Ability to track the request.
+
+### Request statuses
+
+| Status          | Description                |
+| --------------- | -------------------------- |
+| Draft           | Not submitted              |
+| Submitted       | Successfully received      |
+| Under Review    | Being reviewed             |
+| Matching        | Searching for technicians  |
+| Offers Received | Technicians have responded |
+| Assigned        | Technician selected        |
+| In Progress     | Work underway              |
+| Completed       | Work finished              |
+| Cancelled       | Request cancelled          |
+| Disputed        | Issue reported             |
+
+### MODULE 07 — Technician Matching and Assignment Engine
+
+This module connects requests to suitable technicians.
+
+Initially, matching will be controlled by the administrator.
+
+Eventually, we can automate it.
+
+### Matching criteria
+
+The system should consider:
+
+* Technician's service category.
+
+* Skills.
+
+* Location.
+
+* Availability.
+
+* Verification status.
+
+* Customer ratings.
+
+* Experience.
+
+* Service mode.
+
+### Example matching logic
+
+A customer requests laptop repair in Kakamega.
+
+The system searches for technicians who:
+
+* Offer computer repair.
+
+* Are available.
+
+* Serve Kakamega.
+
+* Have verified accounts.
+
+* Accept physical jobs.
+
+It then displays suitable providers.
+
+### Future automated matching score
+
+We could use a weighted scoring model:
+
+| Matching factor      | Proposed weight |
+| -------------------- | --------------- |
+| Skills match         | 30%             |
+| Location match       | 20%             |
+| Availability         | 15%             |
+| Customer rating      | 15%             |
+| Experience           | 10%             |
+| Response reliability | 10%             |
+
+The total is 100%.
+
+These weights will be configurable and tested against real matching outcomes.
+
+### Outputs
+
+* List of matched technicians.
+
+* Matching score.
+
+* Technician availability.
+
+* Estimated service cost where available.
+
+* Contact or quotation option.
+
+The administrator must retain the ability to override automated recommendations.
+
+### MODULE 08 — Quotation and Bidding System
+
+This allows technicians to submit offers for jobs.
+
+For example:
+
+A customer requests a website.
+
+Three developers respond:
+
+| Technician  | Quotation | Estimated delivery |
+| ----------- | --------- | ------------------ |
+| Developer A | KSh 5,000 | 4 days             |
+| Developer B | KSh 7,000 | 3 days             |
+| Developer C | KSh 6,000 | 5 days             |
+
+The customer compares the proposals.
+
+### Technician quotation form
+
+* Service request ID.
+
+* Proposed price.
+
+* Work description.
+
+* Estimated completion time.
+
+* Additional requirements.
+
+* Quotation validity.
+
+* Optional attachments.
+
+### Customer quotation actions
+
+* View quotation.
+
+* Compare quotations.
+
+* Accept quotation.
+
+* Reject quotation.
+
+* Request clarification.
+
+### System output
+
+Once accepted:
+
+* A booking is created.
+
+* The technician is assigned.
+
+* The quoted price is recorded.
+
+* Both parties receive notifications.
+
+The system should prevent multiple conflicting acceptances of the same request.
+
+### MODULE 09 — Booking and Scheduling
+
+This module manages appointments.
+
+### Booking features
+
+* Appointment creation.
+
+* Date selection.
+
+* Time selection.
+
+* Rescheduling.
+
+* Cancellation.
+
+* Booking confirmation.
+
+* Technician availability.
+
+* Booking history.
+
+### Booking form
+
+| Field                | Input             |
+| -------------------- | ----------------- |
+| Service request      | Reference         |
+| Technician           | Selected provider |
+| Appointment date     | Date              |
+| Appointment time     | Time              |
+| Service location     | Address/remote    |
+| Special instructions | Text              |
+
+### Booking statuses
+
+* Pending confirmation.
+
+* Confirmed.
+
+* Reschedule requested.
+
+* Cancelled.
+
+* Completed.
+
+* No-show.
+
+### MODULE 10 — Messaging and Communication
+
+Customers and technicians need a way to communicate.
+
+The platform should eventually support:
+
+* In-platform messaging.
+
+* Message history.
+
+* File attachments.
+
+* Booking-related conversations.
+
+* Notifications of new messages.
+
+### Conversation workflow
+
+```text
+Customer sends message
+        |
+        v
+Message stored securely
+        |
+        v
+Technician notified
+        |
+        v
+Technician replies
+        |
+        v
+Customer notified
+```
+
+For the first version, we can use WhatsApp links for direct communication while keeping important request and booking records inside the platform.
+
+Later, we develop our own messaging system.
+
+### MODULE 11 — Payments and Commission Management
+
+Business-critical module
+
+This module records financial activity.
+
+### Payment methods
+
+Future options:
+
+* M-Pesa.
+
+* Bank transfer.
+
+* Card payments.
+
+* Other supported payment gateways.
+
+### Payment record form
+
+* Transaction reference.
+
+* Customer ID.
+
+* Technician ID.
+
+* Booking ID.
+
+* Service amount.
+
+* Commission percentage.
+
+* Commission amount.
+
+* Technician amount.
+
+* Payment method.
+
+* Payment status.
+
+* Transaction date.
+
+### Payment example
+
+| Description               | Amount    |
+| ------------------------- | --------- |
+| Service price             | KSh 2,500 |
+| Platform commission (15%) | KSh 375   |
+| Technician share          | KSh 2,125 |
+
+### Payment statuses
+
+* Pending.
+
+* Initiated.
+
+* Successful.
+
+* Failed.
+
+* Refunded.
+
+* Reversed.
+
+The system must maintain a financial ledger rather than simply editing a technician's displayed balance.
+
+Every commission and adjustment should have an auditable record.
+
+### MODULE 12 — Ratings and Reviews
+
+After a completed job, customers can review technicians.
+
+### Review input form
+
+| Field            | Type      |
+| ---------------- | --------- |
+| Technician       | Automatic |
+| Booking          | Automatic |
+| Overall rating   | 1–5 stars |
+| Professionalism  | 1–5       |
+| Communication    | 1–5       |
+| Quality of work  | 1–5       |
+| Written feedback | Text      |
+
+### Outputs
+
+* Average rating.
+
+* Number of completed reviews.
+
+* Recent customer feedback.
+
+* Technician reputation.
+
+Only customers with eligible completed bookings should be able to leave verified-job reviews.
+
+Technicians should also be able to report abusive or fraudulent reviews for moderation.
+
+### MODULE 13 — Notifications
+
+This module informs users about important events.
+
+### Notification channels
+
+* In-platform notifications.
+
+* Email.
+
+* WhatsApp integration later.
+
+* SMS integration later.
+
+### Notification examples
+
+| Event                  | Recipient        |
+| ---------------------- | ---------------- |
+| New service request    | Customer         |
+| Suitable job available | Technician       |
+| New quotation          | Customer         |
+| Quotation accepted     | Technician       |
+| Booking confirmed      | Both             |
+| New message            | Recipient        |
+| Job completed          | Both             |
+| Review submitted       | Technician       |
+| Account verified       | Technician       |
+| Payment recorded       | Relevant parties |
+
+Users should be able to manage non-essential notification preferences.
+
+### MODULE 14 — Disputes and Customer Support
+
+No marketplace is complete without a complaint-handling system.
+
+Customers may complain about:
+
+* Poor service.
+
+* Missed appointments.
+
+* Unfinished work.
+
+* Misrepresented skills.
+
+* Unauthorised additional charges.
+
+* Communication problems.
+
+### Dispute form
+
+* Booking reference.
+
+* Complaint category.
+
+* Description.
+
+* Supporting evidence.
+
+* Desired resolution.
+
+* Attachments.
+
+### Dispute workflow
+
+```text
+Customer reports issue
+        |
+        v
+Dispute registered
+        |
+        v
+Administrator notified
+        |
+        v
+Both parties contacted
+        |
+        v
+Evidence reviewed
+        |
+        v
+Resolution proposed
+        |
+        v
+Case closed
+```
+
+The system should record decisions and explanations.
+
+### MODULE 15 — Technician Verification
+
+This module ensures that the marketplace doesn't become a place where anyone can pretend to be a professional.
+
+### Verification stages
+
+* Account registration.
+
+* Identity verification.
+
+* Skills and portfolio review.
+
+* Qualification review where relevant.
+
+* Reference checks where appropriate.
+
+* Administrator decision.
+
+* Verification badge assignment.
+
+### Verification labels
+
+* Registered.
+
+* Verification pending.
+
+* Identity checked.
+
+* Skills reviewed.
+
+* Fully verified.
+
+We should distinguish identity checks from skills checks. A person whose identity is verified isn't automatically a competent technician.
+
+### MODULE 16 — Analytics and Reporting
+
+This module gives the business owner information about how the platform is performing.
+
+### Platform analytics
+
+* Total customers.
+
+* Total technicians.
+
+* Pending technician applications.
+
+* Total service requests.
+
+* Completed requests.
+
+* Cancelled requests.
+
+* Active bookings.
+
+* Total transaction value.
+
+* Platform commission revenue.
+
+* Disputes.
+
+* Customer satisfaction.
+
+### Example analytics dashboard
+
+![Ash Grey Color Palettes: Hex Codes & Tips](https://images.openai.com/static-rsc-4/E0HpdZC1fbeuYT5ArPIkdmIlPLeAYrMVXBOBfOf8QKsQBk3ZxLyv0-zHq8KBvdJ5CRalJrMuLnvv8SQ1k8L-uiXe1wtmMOcVl4UpG82EC65N3Cs-WvsFN08agtp_kGJlXU1M7-25Kwe2F6RLulgC_GstXy4Hpzb3ehEMdivmiddAVxjcI9ycNQGPYvAdN4wU?purpose=fullsize)
+
+### Reports
+
+| Report             | Purpose                 |
+| ------------------ | ----------------------- |
+| Revenue report     | Monitor platform income |
+| Technician report  | Provider performance    |
+| Customer report    | Customer activity       |
+| Service report     | Most requested services |
+| Location report    | Geographic demand       |
+| Transaction report | Financial history       |
+| Dispute report     | Complaint trends        |
+
+Filters should include:
+
+* Daily.
+
+* Weekly.
+
+* Monthly.
+
+* Yearly.
+
+* Custom date range.
+
+* Service category.
+
+* Location.
+
+### MODULE 17 — ADMINISTRATOR CONTROL CENTRE
+
+Your command centre
+
+This will be one of the most powerful parts of the website.
+
+![Kurumsal Yönetim & Admin Paneli | Çark Yazılım](https://images.openai.com/static-rsc-4/qnDmCC0k5_MGALfDrLoV6VrsBqJfMkpuTM7cD7_mLmmJ8iKiEK_E4Xkuh_cxDIouUwi5poe4o-sfONJ1Ru5vMfouo_3-C3Rt3OxzFY4G6i-tO6cgcyOVu43q6wwXaGzkdNl9952yT0hXHECrQlbU5lCal9Brg1rqfa41_xv5-io6BnzdkhJ4qrXUMs0_yA8o?purpose=fullsize)
+
+The administrator should have complete operational visibility.
+
+### Admin navigation
+
+| Section       | Functions                       |
+| ------------- | ------------------------------- |
+| Overview      | Business summary                |
+| Customers     | Manage customer accounts        |
+| Technicians   | Manage service providers        |
+| Verification  | Review applications             |
+| Services      | Manage categories               |
+| Requests      | Monitor all jobs                |
+| Matching      | Assign technicians              |
+| Quotations    | Monitor offers                  |
+| Bookings      | Manage appointments             |
+| Messages      | Moderate reported conversations |
+| Transactions  | Monitor financial activity      |
+| Commissions   | Manage platform fees            |
+| Reviews       | Moderate feedback               |
+| Disputes      | Resolve complaints              |
+| Notifications | Manage system announcements     |
+| Analytics     | Business intelligence           |
+| Website CMS   | Manage website content          |
+| Settings      | Configure platform              |
+| Audit Logs    | Track administrative actions    |
+
+### Admin dashboard overview
+
+The home screen should show:
+
+* Total registered users.
+
+* Total active technicians.
+
+* Pending verifications.
+
+* Open requests.
+
+* Active bookings.
+
+* Completed jobs.
+
+* Total revenue.
+
+* Outstanding commissions.
+
+* Open disputes.
+
+* Recent activities.
+
+### Important administrator controls
+
+The administrator must be able to:
+
+* Suspend accounts.
+
+* Restore accounts.
+
+* Approve or reject technicians.
+
+* Remove fraudulent listings.
+
+* Modify service categories.
+
+* Manage commission settings.
+
+* Resolve disputes.
+
+* Export reports.
+
+* Manage website content.
+
+* Review audit trails.
+
+We should have strict protection around sensitive actions, including confirmation prompts and administrator permissions.
+
+### MODULE 18 — Security and Audit Management
+
+Security is not something we add at the end.
+
+It must be part of the architecture from the beginning.
+
+### Security requirements
+
+* Password hashing.
+
+* Secure authentication.
+
+* Role-based permissions.
+
+* Server-side input validation.
+
+* Protection against SQL injection.
+
+* Cross-site scripting protection.
+
+* CSRF protection.
+
+* Secure file uploads.
+
+* Rate limiting.
+
+* Database backups.
+
+* HTTPS.
+
+* Audit logging.
+
+* Session protection.
+
+* Restricted access to private documents.
+
+### Audit logs
+
+Important actions must be recorded.
+
+For example:
+
+| Event               | Information recorded       |
+| ------------------- | -------------------------- |
+| Login               | User, date, result         |
+| Account suspension  | Admin and reason           |
+| Technician approval | Admin and timestamp        |
+| Commission update   | Old and new value          |
+| Refund              | Transaction and reason     |
+| Dispute resolution  | Decision and administrator |
+
+This is essential for accountability.
+
+### 5\. COMPLETE INPUT AND OUTPUT DESIGN
+
+Now let's bring all the modules together.
+
+Every major activity in YB TECHKONNECT should follow a clear pattern:
+
+Input → Processing → Database → Output
+
+Here is our master input/output specification.
+
+| Module                  | Input                  | Processing           | Output                |
+| ----------------------- | ---------------------- | -------------------- | --------------------- |
+| Authentication          | Credentials            | Validate identity    | Session and dashboard |
+| Customer profile        | Personal details       | Validate and store   | Updated profile       |
+| Technician registration | Skills and documents   | Verification         | Provider account      |
+| Service categories      | Category information   | Organise services    | Service directory     |
+| Service request         | Problem details        | Create request       | Reference number      |
+| Matching                | Request criteria       | Match providers      | Suitable technicians  |
+| Quotations              | Price and proposal     | Validate offers      | Customer comparison   |
+| Booking                 | Date and provider      | Check availability   | Confirmed booking     |
+| Messaging               | Message content        | Store and deliver    | Conversation          |
+| Payments                | Transaction details    | Verify and reconcile | Payment record        |
+| Commissions             | Transaction value      | Calculate percentage | Commission record     |
+| Reviews                 | Rating and feedback    | Validate eligibility | Public review         |
+| Notifications           | System event           | Identify recipients  | User alert            |
+| Disputes                | Complaint and evidence | Review and resolve   | Resolution record     |
+| Analytics               | Business records       | Aggregate data       | Reports and charts    |
+| Administration          | Admin commands         | Permission checks    | System changes        |
+| Audit                   | System events          | Record activity      | Audit trail           |
+
+This table becomes a useful reference during backend development and testing.
+
+### 6\. THE COMPLETE PLATFORM WORKFLOWS
+
+We need to define how the different users interact.
+
+### 6.1 Customer workflow
+
+### Customer journey
+
+* Visit YB TECHKONNECT website.
+
+* Create a customer account.
+
+* Verify account details.
+
+* Open customer dashboard.
+
+* Browse services or submit a request.
+
+* Receive suitable technician offers.
+
+* Compare quotations.
+
+* Select a technician.
+
+* Confirm booking.
+
+* Communicate with technician.
+
+* Receive completed service.
+
+* Confirm completion and payment.
+
+* Rate and review technician.
+
+### 6.2 Technician workflow
+
+### Service provider journey
+
+* Visit the website.
+
+* Choose Become a Technician.
+
+* Register account.
+
+* Complete professional profile.
+
+* Submit verification information.
+
+* Wait for administrator review.
+
+* Receive approval.
+
+* View relevant job opportunities.
+
+* Submit quotations.
+
+* Receive accepted booking.
+
+* Complete assigned work.
+
+* Receive payment.
+
+* Build reputation through reviews.
+
+### 6.3 Administrator workflow
+
+### Administrator journey
+
+* Log in securely.
+
+* View platform overview.
+
+* Review technician applications.
+
+* Approve or reject applications.
+
+* Monitor incoming requests.
+
+* Manage technician matching.
+
+* Monitor quotations and bookings.
+
+* Track payments and commissions.
+
+* Handle reported problems.
+
+* Generate business reports.
+
+* Monitor security and audit logs.
+
+### 7\. DATABASE DESIGN
+
+Now we're getting into the actual engineering.
+
+Our platform will need a relational database.
+
+I recommend PostgreSQL when we build the production backend.
+
+The database will contain interconnected tables.
+
+### 7.1 Proposed database tables
+
+| Table                   | What it stores         |
+| ----------------------- | ---------------------- |
+| users                   | Login accounts         |
+| customer_profiles       | Customer information   |
+| technician_profiles     | Technician information |
+| business_profiles       | Business accounts      |
+| technician_skills       | Provider skills        |
+| verification_documents  | Verification records   |
+| service_categories      | Service categories     |
+| service_requests        | Customer requests      |
+| request_attachments     | Request files          |
+| technician_applications | Job offers             |
+| quotations              | Technician quotations  |
+| bookings                | Confirmed appointments |
+| conversations           | Chat conversations     |
+| messages                | Individual messages    |
+| payments                | Payment records        |
+| commissions             | Platform earnings      |
+| reviews                 | Customer feedback      |
+| notifications           | User notifications     |
+| disputes                | Customer complaints    |
+| dispute_evidence        | Complaint evidence     |
+| support_tickets         | Support requests       |
+| audit_logs              | Administrative history |
+| system_settings         | Configurations         |
+
+### 7.2 How the tables connect
+
+Here is the proposed logical relationship:
+
+```mermaid
+
+erDiagram
+    USERS ||--o| CUSTOMER_PROFILES : has
+    USERS ||--o| TECHNICIAN_PROFILES : has
+    USERS ||--o| BUSINESS_PROFILES : has
+    TECHNICIAN_PROFILES ||--o{ TECHNICIAN_SKILLS : has
+    SERVICE_CATEGORIES ||--o{ SERVICE_REQUESTS : classifies
+    USERS ||--o{ SERVICE_REQUESTS : submits
+    SERVICE_REQUESTS ||--o{ REQUEST_ATTACHMENTS : contains
+    SERVICE_REQUESTS ||--o{ TECHNICIAN_APPLICATIONS : receives
+    TECHNICIAN_PROFILES ||--o{ TECHNICIAN_APPLICATIONS : submits
+    TECHNICIAN_APPLICATIONS ||--o{ QUOTATIONS : produces
+    SERVICE_REQUESTS ||--o| BOOKINGS : creates
+    TECHNICIAN_PROFILES ||--o{ BOOKINGS : handles
+    BOOKINGS ||--o{ PAYMENTS : records
+    PAYMENTS ||--o{ COMMISSIONS : generates
+    BOOKINGS ||--o| REVIEWS : receives
+    BOOKINGS ||--o{ DISPUTES : may_have
+    USERS ||--o{ NOTIFICATIONS : receives
+    USERS ||--o{ AUDIT_LOGS : generates
+```
+
+This is the conceptual relationship diagram. We will refine exact foreign keys, constraints and cardinalities during implementation.
+
+### 7.3 Important database principles
+
+* Every record gets a unique identifier.
+
+* User email addresses should be unique.
+
+* Phone number handling must account for country codes.
+
+* Deactivated accounts should not destroy historical transactions.
+
+* Payments should be auditable.
+
+* Sensitive documents must be stored privately.
+
+* Database relationships must enforce data integrity.
+
+* Administrative operations must be recorded.
+
+### 8\. WEBSITE DESIGN AND USER EXPERIENCE
+
+I want YB TECHKONNECT to have a distinctive professional identity.
+
+Not a generic template that looks like hundreds of other websites.
+
+### 8.1 Proposed visual direction
+
+Brand colour palette
+
+Deep Navy
+
+#101C32
+
+Electric Blue
+
+#2563EB
+
+Teal
+
+#0F9F8F
+
+Light Background
+
+#F4F7FB
+
+Design principles
+
+* Executive and professional.
+
+* Clean typography.
+
+* Strong visual hierarchy.
+
+* Clear navigation.
+
+* Subtle animations.
+
+* Consistent icons.
+
+* Spacious layouts.
+
+* Mobile-first responsiveness.
+
+* Accessible colour contrast.
+
+### 8.2 Required website pages
+
+| Page                 | Route                 |
+| -------------------- | --------------------- |
+| Homepage             | /                     |
+| About                | /about                |
+| Services             | /services             |
+| Service details      | /services/category    |
+| Find technicians     | /technicians          |
+| Technician profile   | /technicians/profile  |
+| How it works         | /how-it-works         |
+| For businesses       | /businesses           |
+| Become a technician  | /join-as-technician   |
+| Contact              | /contact              |
+| FAQ                  | /faq                  |
+| Login                | /login                |
+| Registration         | /register             |
+| Customer dashboard   | /customer/dashboard   |
+| Technician dashboard | /technician/dashboard |
+| Admin dashboard      | /admin/dashboard      |
+| Privacy policy       | /privacy              |
+| Terms                | /terms                |
+
+Actual routes will use unique IDs for individual records rather than these illustrative page paths.
+
+### 8.3 Mobile experience
+
+A large proportion of our early visitors may use Android phones.
+
+Therefore:
+
+* Forms must be easy to complete on small screens.
+
+* Buttons must be appropriately sized.
+
+* Tables must adapt to mobile.
+
+* Navigation must collapse properly.
+
+* Images must be optimised.
+
+* Dashboards must remain usable.
+
+* The website should perform well on slower connections.
+
+We should consider making the application installable as a Progressive Web App (PWA) later.
+
+### 9\. TECHNICAL DEVELOPMENT ARCHITECTURE
+
+This is the technology stack I propose.
+
+### YB TECHKONNECT technical stack
+
+![The Basics of Front-End Web Development](https://images.openai.com/static-rsc-4/QUxJOQMBWFODNAVg21oSNI_EuGUMNmaleF5Tm-H14ExHwEKaQhYD9cZJhkd0--ZCS6eCRIJzHmXocKBCV60GCnQwozNFUJlZV4HG6xrVPCWl8LtbcGhEa-TQYLHKDffz8mUZowIoOBBsmQ3IBkTeRCGX7drnjRaWmun1lrwWqXsMMxLKWnjbhKYJIYBDiFzf?purpose=fullsize)
+
+Frontend
+
+HTML, CSS, JavaScript, with a modern component-based framework such as React.
+
+![Django-logo.svg | Info\[Optima\]](https://images.openai.com/static-rsc-4/ipNp7srqvK4deuLXMQiSH-O0zvj9x8KIKg48j4mAUeOXm1PQdeCN4xn8qNIFkFIdblGZqrxaX6lGP55bjONruiMTPKnEpWm19ploxErvysd86Fvn15wCH-DGr_b9yaLOJIz6r_WU2buahXChyGCaTo4t4dV9Suu4H5DnnvF75sm5EC4QLDuUZOqeAWJC93D2?purpose=fullsize)
+
+Backend
+
+Python and Django, including Django REST Framework if we need a separate API.
+
+![PostgreSQL | AIQ Integrations](https://images.openai.com/static-rsc-4/CkhPER3edH2Q6qNHovwgxJKkmhDEuVQTbKs5qGZ9x1wOL4RRE5S4Ym5fS_q6V_KYRlBxQ2LEDICzNEe4Dnroo32q5q6u3OFgLwVZrn8ncMBukC89AujFJDAZZ8gyAG8uDCsiqrt9UenI7G-jhtjZ4_X8UmWO69XfWERHQ__0VjX7XdYGV2zvuZdcUOOJmaHY?purpose=fullsize)
+
+Database
+
+PostgreSQL for structured, relational application data.
+
+![GitHub常用指令 | lhldudu's blog](https://images.openai.com/static-rsc-4/j1Nw3-xVBU1IzxZwfTxkQANZfXV03TaLKAYf6fdVPkW9vxn-7A-oiQuepyi08fZA0Qyr5qeCz75NxBdSkzTtSKBSw0pYfbJgnoFdgAZRKy_mI4ZT-edVS-1w7gUl3vHXpq-_JwkPjGZu_mg3MdajFXAZcxAzdmWUK3ACKdL7vLUU9xYyBUROGVY5yEU-1CML?purpose=fullsize)
+
+Version control
+
+Git and GitHub for source code and development history.
+
+![omv6:docker_in_omv \[omv-extras.org\]](https://images.openai.com/static-rsc-4/i4hy1XQhfW-cLqp-C4r6Ljq3fQ0RJtL-210Z4gVFoq9F_M_ufKnChHhnXJJscpdhM2CjfRg5t6h9IBj5sYkB1V5og4x4b-jdLTm1TbO75stgLRykA_RTsC6oNuBwzG7x_on8hU_W3TAThTr9GTSPKWtsehq5v3hjjxHpm06iohXIe7Eex0lx7T8cpjk1JRuc?purpose=fullsize)
+
+Deployment preparation
+
+Docker for reproducible development and deployment environments.
+
+### Why this stack?
+
+Because it is suitable for a growing platform.
+
+We can begin developing locally without paying for a server.
+
+When the website is ready, we can investigate hosting options that fit our budget.
+
+### Proposed system architecture
+
+```mermaid
+
+flowchart TB
+    U[Customers and Technicians]
+    A[Admin]
+    U --> FE[Responsive Web Application]
+    A --> FE
+    FE --> AUTH[Authentication and Permissions]
+    FE --> API[Application Backend]
+    API --> DB[(PostgreSQL Database)]
+    API --> FILES[Private File Storage]
+    API --> MATCH[Matching Engine]
+    API --> PAY[Payment Integration]
+    API --> NOTIFY[Notification Service]
+    API --> LOG[Audit and Logging]
+    MATCH --> DB
+    PAY --> DB
+    NOTIFY --> DB
+```
+
+We will build a modular monolith initially rather than introducing unnecessary microservices. This keeps the first version easier to develop, test, secure and maintain.
+
+### 10\. FILE AND PROJECT STRUCTURE
+
+I want our code organised professionally from the beginning.
+
+Here is the proposed structure:
+
+```text
+YB-TECHKONNECT/
+│
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── assets/
+│   │   ├── components/
+│   │   ├── layouts/
+│   │   ├── pages/
+│   │   │   ├── public/
+│   │   │   ├── customer/
+│   │   │   ├── technician/
+│   │   │   └── admin/
+│   │   ├── services/
+│   │   ├── hooks/
+│   │   ├── routes/
+│   │   └── styles/
+│   └── package.json
+│
+├── backend/
+│   ├── config/
+│   ├── apps/
+│   │   ├── accounts/
+│   │   ├── customers/
+│   │   ├── technicians/
+│   │   ├── services/
+│   │   ├── requests/
+│   │   ├── matching/
+│   │   ├── quotations/
+│   │   ├── bookings/
+│   │   ├── messaging/
+│   │   ├── payments/
+│   │   ├── reviews/
+│   │   ├── notifications/
+│   │   ├── disputes/
+│   │   ├── analytics/
+│   │   └── audit/
+│   ├── manage.py
+│   └── requirements.txt
+│
+├── documentation/
+│   ├── business-plan.md
+│   ├── requirements.md
+│   ├── database-design.md
+│   ├── workflows.md
+│   └── testing-plan.md
+│
+├── deployment/
+│
+├── tests/
+│
+├── .gitignore
+└── README.md
+```
+
+This structure can be adjusted as development progresses.
+
+### 11\. OPERATIONAL POLICIES
+
+The website is not only code. It is also a business operation.
+
+We need clear rules.
+
+### Customer policies
+
+* Customers must provide accurate information.
+
+* Customers must not submit fraudulent requests.
+
+* Customers must respect service providers.
+
+* Customers must follow agreed payment terms.
+
+* Customers must report problems through the platform.
+
+### Technician policies
+
+* Technicians must provide accurate qualifications.
+
+* Technicians must not misrepresent their abilities.
+
+* Technicians must respect customer privacy.
+
+* Technicians must not demand unauthorised payments.
+
+* Technicians must complete agreed work.
+
+* Technicians must not perform unauthorised access or security testing.
+
+### Platform policies
+
+* YB must protect personal information.
+
+* YB must maintain transparent commissions.
+
+* YB must handle disputes fairly.
+
+* YB must provide accurate verification labels.
+
+* YB must maintain service records.
+
+* YB must provide an accessible support channel.
+
+For Kenya, we will need to consider the Data Protection Act, 2019, relevant ODPC guidance, consumer protection requirements and applicable tax and business obligations. We should have the policies reviewed appropriately before commercial launch.
+
+### 12\. ZERO-CAPITAL DEVELOPMENT STRATEGY
+
+We need to distinguish between development costs and eventual operating costs.
+
+Our goal is to develop and test as much as possible using free tools.
+
+| Resource                 | Initial approach       |
+| ------------------------ | ---------------------- |
+| Code editor              | Free                   |
+| Programming languages    | Free                   |
+| GitHub                   | Free tier              |
+| Local database           | Free                   |
+| Local development server | Free                   |
+| Website design           | Self-developed         |
+| Testing                  | Local testing          |
+| Documentation            | Free                   |
+| Initial customer forms   | Free                   |
+| Initial communication    | WhatsApp Business      |
+| Production hosting       | Select later           |
+| Domain                   | Purchase when feasible |
+| Payment integration      | Add when feasible      |
+
+A public, reliable production platform may eventually require paid hosting, a domain, messaging services, payment-provider charges and operational resources.
+
+We will not pretend those costs do not exist.
+
+We will delay them until they are necessary.
+
+### 13\. DEVELOPMENT ROADMAP
+
+We will not attempt to develop all 18 modules simultaneously.
+
+That would create unnecessary complexity.
+
+Instead, we build in phases.
+
+### Development phases
+
+* Phase 1 — Planning and documentation
+
+    Current phase
+
+    * Finalise requirements.
+
+    * Define workflows.
+
+    * Define database relationships.
+
+    * Agree on design.
+
+    * Establish business rules.
+
+* Phase 2 — Brand and frontend
+
+    * Logo and identity.
+
+    * Landing page.
+
+    * Navigation.
+
+    * Service pages.
+
+    * Responsive layouts.
+
+* Phase 3 — Authentication and database
+
+    * Database setup.
+
+    * User registration.
+
+    * Login.
+
+    * Permissions.
+
+    * Customer and technician profiles.
+
+* Phase 4 — Marketplace engine
+
+    * Service categories.
+
+    * Request submission.
+
+    * Technician discovery.
+
+    * Matching.
+
+    * Quotations.
+
+    * Bookings.
+
+* Phase 5 — Communication and financial management
+
+    * Messaging.
+
+    * Notifications.
+
+    * Payment records.
+
+    * Commission calculations.
+
+    * Reviews.
+
+* Phase 6 — Administrator control centre
+
+    * User management.
+
+    * Technician verification.
+
+    * Job management.
+
+    * Dispute resolution.
+
+    * Analytics.
+
+* Phase 7 — Security and quality assurance
+
+    * Security testing.
+
+    * Functional testing.
+
+    * Mobile testing.
+
+    * Database backups.
+
+    * Performance testing.
+
+* Phase 8 — Deployment and launch
+
+    * Hosting.
+
+    * Domain configuration.
+
+    * HTTPS.
+
+    * Production database.
+
+    * Final checks.
+
+    * Public release.
+
+### What must work before launch?
+
+We will not release YB TECHKONNECT merely because the homepage looks beautiful.
+
+These are launch requirements:
+
+* Registration and login work.
+
+* Customer requests are saved correctly.
+
+* Technicians can register.
+
+* Administrators can verify technicians.
+
+* Requests can be matched.
+
+* Quotations can be submitted and accepted.
+
+* Bookings can be managed.
+
+* Transaction records are correct.
+
+* Users receive important notifications.
+
+* Complaints can be reported.
+
+* Permissions are enforced.
+
+* Private information is protected.
+
+* The website works on mobile and desktop.
+
+### 14\. BUSINESS PERFORMANCE MEASUREMENT
+
+We need to know whether YB TECHKONNECT is actually succeeding.
+
+These will be our key performance indicators (KPIs).
+
+| KPI                     | What it measures             |
+| ----------------------- | ---------------------------- |
+| Registered customers    | Customer acquisition         |
+| Active technicians      | Supply availability          |
+| Service requests        | Market demand                |
+| Match rate              | Successful provider matching |
+| Completed jobs          | Actual marketplace activity  |
+| Average completion time | Operational efficiency       |
+| Repeat customers        | Customer retention           |
+| Average rating          | Customer satisfaction        |
+| Gross transaction value | Total service value          |
+| Platform revenue        | Money earned by YB           |
+| Dispute rate            | Service quality issues       |
+
+Our initial targets will be established after the pilot rather than inventing impressive-looking numbers.
+
+### 15\. FUTURE EXPANSION
+
+I don't want us to build something that becomes limited to computer repairs.
+
+Once the technology-services marketplace works, YB TECHKONNECT could expand.
+
+Possible future categories:
+
+* Electrical services.
+
+* Plumbing.
+
+* Mechanical repairs.
+
+* Appliance repairs.
+
+* Professional tutoring.
+
+* Photography.
+
+* Digital marketing.
+
+* Business consultancy.
+
+* Other professional services.
+
+We should design the category and matching system to support this expansion without rebuilding the entire application.
+
+Other possible future features:
+
+* AI-powered problem diagnosis.
+
+* Intelligent technician matching.
+
+* Advanced business accounts.
+
+* Corporate service contracts.
+
+* Mobile applications.
+
+* Provider performance analytics.
+
+* Automated quotations.
+
+* Subscription management.
+
+* Geographic service coverage.
+
+* A public API for business integrations.
+
+These are future possibilities, not launch requirements.
+
+### 16\. OUR FIRST OFFICIAL PRODUCT SCOPE
+
+To prevent scope creep, we need to identify exactly what belongs in the first release.
+
+I recommend this:
+
+| Feature                     | First release |
+| --------------------------- | ------------- |
+| Professional public website | Yes           |
+| Customer registration       | Yes           |
+| Technician registration     | Yes           |
+| Admin authentication        | Yes           |
+| Service categories          | Yes           |
+| Service request submission  | Yes           |
+| Technician verification     | Yes           |
+| Technician directory        | Yes           |
+| Manual technician matching  | Yes           |
+| Quotations                  | Yes           |
+| Booking management          | Yes           |
+| Basic messaging/contact     | Yes           |
+| Notifications               | Yes           |
+| Payment recording           | Yes           |
+| Commission calculation      | Yes           |
+| Customer reviews            | Yes           |
+| Admin dashboard             | Yes           |
+| Basic reports               | Yes           |
+| Automated AI diagnosis      | Later         |
+| Integrated M-Pesa           | Later         |
+| Advanced live chat          | Later         |
+| Native Android application  | Later         |
+| Automated matching          | Later         |
+
+This gives us a meaningful first release without trying to build every possible feature at once.
+
+### 17\. THE FIRST THING WE WILL BUILD
+
+When we move from planning into actual development, I want to start with the visual identity and the public-facing website.
+
+Our first design deliverable will contain:
+
+![Landing Page UI/UX Design for Tech Company | Dude Studios - Digital Art Agency](https://images.openai.com/static-rsc-4/MrLCSEKgezsZkbpH-wXxyZ0zZ8w6PjQutbDmumWRvxLoWKqF1RpeikxfttwbrUa9iJRwJdS7Q4DPa8gypZYDPe06AJi49JjPN9WMFe6IbtxCUsrXMJ2caonGresgoj1tmyZQpG9wvZ9Cs4kL1iUzlINnK84i-8IkbJEJyKWh-xFulwO-_oulFm_qLddEqzUQ?purpose=fullsize)
+
+Homepage
+
+First impression and service discovery
+
+![Handyman Marketplace by Timilehin Bodunde on Dribbble](https://images.openai.com/static-rsc-4/MM_jorOuV14Omsgypims-EjZB3eU-ficB1v7sFY7kL1oWi8vd1-8-KhT9ZfBmkf5EhN73OGVbjoh_VJBghBXdENqneX3OC4c7JJ74_4v75r2jEv9ASLgsDUFtSi13BO3YAVhjMaaG404ilzV_JKoNQPvH-ctSKWIDeWQnwKO0bl0cSHRMPFCN7a_QA2pz0Kx?purpose=fullsize)
+
+Services page
+
+Categories and service listings
+
+![Electrician Website Builder - Build Faster with AI](https://images.openai.com/static-rsc-4/DA2G_hi41gNCJk7OioHxVRnA8mdmG4DxU_iteGXaoU63ix49ABvEliHJ6RHcASyJjxyHDx-GpQBBLn_CJnhvcgtcWAc3hL-iBP5Ss3GFYvZqUwXHe7o_67iz24O64-v4T7LBOaldxG215mtQcr7f50Vv6WSOcuymtAVXsfuOrBuuv_vtj9VZeMXG8HHFyaBZ?purpose=fullsize)
+
+Technician profiles
+
+Skills, verification and reviews
+
+![Analytics Dashboard - AdminKit by AdminKit on Dribbble](https://images.openai.com/static-rsc-4/jFvRBlVPOIKa8BwDKt4Omd6I_vmQJgtCyp0gmZk8t9r1hJ7PwWz6cLUuQALiug9r8lGxjfgep0jNOqPCKscDSq3tfpON19QcPl2iQNxOtBPSto7fGbf4t0xrg6i6l08n_Y7N2LGM9hnN1T6-YLfE3QeBtWcRabIHpMfFCGfJvetEZtDtqmQPhMp0lpm7AKtE?purpose=fullsize)
+
+Admin dashboard
+
+Business management and control
+
+We will approve the design direction before connecting the backend.
+
+### 18\. FINAL PROJECT DECISIONS
+
+Here are the decisions I propose to carry forward as our working specification.
+
+| Decision             | Proposed direction                                |
+| -------------------- | ------------------------------------------------- |
+| Business name        | YB TECHKONNECT                                    |
+| Business type        | Digital services marketplace                      |
+| Primary market       | Kenya                                             |
+| Starting location    | Kakamega                                          |
+| Website type         | Full-stack web application                        |
+| Frontend             | React                                             |
+| Backend              | Python/Django                                     |
+| Database             | PostgreSQL                                        |
+| Account types        | Customer, technician, business, admin             |
+| Initial job matching | Manual with system assistance                     |
+| Payment approach     | Direct payment and recorded commissions initially |
+| Design               | Premium, executive, responsive                    |
+| Development          | Phased                                            |
+| Launch               | Only after testing and approval                   |
+
+### 19\. PROJECT MASTER CHECKLIST
+
+This is our project tracker. We can update it as we make decisions.
+
+YB TECHKONNECT project tracker
+
+0/22
+
+1. Business identity and brand
+
+Confirm YB TECHKONNECT name
+
+Approve tagline
+
+Approve logo and brand identity
+
+2. Business and product planning
+
+Approve business model
+
+Approve target users
+
+Approve revenue structure
+
+Approve service categories
+
+Approve operating policies
+
+3. System architecture
+
+Approve modules
+
+Approve workflows
+
+Approve database schema
+
+Approve technical stack
+
+4. Design and development
+
+Approve homepage design
+
+Approve dashboard designs
+
+Build frontend
+
+Build backend
+
+Connect database
+
+5. Testing and release
+
+Complete functional tests
+
+Complete security tests
+
+Complete mobile tests
+
+Prepare deployment
+
+Approve public launch
+
+ Copy project checklist
+
+### 20\. MY FINAL RECOMMENDATION
+
+Bro, I want us to build this with the mindset of founders, designers, software engineers and business operators.
+
+There are three things I particularly want us to get right:
+
+First: Functionality. Every major button, form, dashboard and workflow must perform its intended task.
+
+Second: Professionalism. YB TECHKONNECT must look credible enough that a school, business owner or professional organisation can confidently use it.
+
+Third: Sustainability. The platform must have a realistic way to generate revenue, pay service providers, handle complaints and grow without depending entirely on you manually doing everything.
+
+I also want us to maintain a single master requirements document so that we don't lose decisions as the project grows.
+
+### Our next planning milestone
+
+Before we write the first line of code, I suggest we settle the following three things:
+
+1\. Which tagline should represent the brand?
+
+Connecting Problems. Delivering Solutions.
+
+Your Problem. Our Network. The Right Solution.
+
+Technology Solutions, Connected.
+
+I want to develop a different tagline.
+
+2\. Where should the platform launch?
+
+Start in Kakamega, then expand across Kenya
+
+Launch across Kenya from day one
+
+Build for the international market
+
+3\. Which visual identity do you prefer?
+
+Premium corporate — navy, electric blue and white
+
+Futuristic technology — dark background and neon blue
+
+Minimalist executive — white, black and subtle blue
+
+Confirm these decisions
+
+One final promise about how we'll work: We won't rush the launch. We will build, inspect, test, correct and improve until the platform is ready.
+
+YB TECHKONNECT deserves to be built properly. 🙌
