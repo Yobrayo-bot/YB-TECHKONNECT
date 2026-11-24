@@ -4,6 +4,16 @@ const router = express.Router()
 const pool = require('../config/database')
 const authMiddleware = require('../middleware/authMiddleware')
 
+const { CountryStateCity } = require('@tansuasici/country-state-city')
+
+function sameName(first, second) {
+  return (
+    typeof first === 'string' &&
+    typeof second === 'string' &&
+    first.trim().toLowerCase() === second.trim().toLowerCase()
+  )
+}
+
 // GET all approved technicians
 router.get('/', async (req, res) => {
   try {
@@ -53,7 +63,6 @@ router.post('/register', authMiddleware, async (req, res) => {
       professionalTitle,
       phone,
       category,
-      location,
       countryCode,
       countryName,
       regionId,
@@ -70,7 +79,6 @@ router.post('/register', authMiddleware, async (req, res) => {
       !professionalTitle?.trim() ||
       !phone?.trim() ||
       !category?.trim() ||
-      !location?.trim() ||
       !experience?.trim() ||
       !description?.trim()
     ) {
@@ -80,7 +88,7 @@ router.post('/register', authMiddleware, async (req, res) => {
       })
     }
 
-    // Validate structured location details
+    // Validate location input
     if (
       !countryCode?.trim() ||
       !countryName?.trim() ||
@@ -96,6 +104,58 @@ router.post('/register', authMiddleware, async (req, res) => {
         message: 'Please select a valid country, region and city.'
       })
     }
+
+    const normalizedCountryCode = countryCode.trim().toUpperCase()
+    const selectedRegionId = Number(regionId)
+    const selectedCityId = Number(cityId)
+
+    // Verify country against the official location dataset
+    const country = CountryStateCity.getCountryByIso2(
+      normalizedCountryCode
+    )
+
+    if (!country || !sameName(country.name, countryName)) {
+      return res.status(400).json({
+        success: false,
+        message: 'The selected country is invalid.'
+      })
+    }
+
+    // Verify region belongs to the selected country
+    const region = CountryStateCity.getStateById(selectedRegionId)
+
+    if (
+      !region ||
+      region.countryCode !== normalizedCountryCode ||
+      !sameName(region.name, regionName) ||
+      !sameName(region.countryName, country.name)
+    ) {
+      return res.status(400).json({
+        success: false,
+        message: 'The selected region does not belong to that country.'
+      })
+    }
+
+    // Verify city belongs to the selected region and country
+    const cities = CountryStateCity.getCitiesByStateId(selectedRegionId)
+
+    const city = cities.find(item =>
+      item.id === selectedCityId &&
+      item.stateId === selectedRegionId &&
+      item.countryCode === normalizedCountryCode &&
+      sameName(item.name, cityName)
+    )
+
+    if (!city) {
+      return res.status(400).json({
+        success: false,
+        message: 'The selected city does not belong to that region.'
+      })
+    }
+
+    // Build location using verified dataset values
+    const verifiedLocation =
+      `${city.name}, ${region.name}, ${country.name}`
 
     // Find the selected service category
     const categoryResult = await pool.query(
@@ -114,7 +174,7 @@ router.post('/register', authMiddleware, async (req, res) => {
 
     const selectedCategory = categoryResult.rows[0]
 
-    // Save technician profile and structured location
+    // Save verified technician profile
     const result = await pool.query(
       `INSERT INTO public.technician_profiles (
         user_id,
@@ -159,13 +219,13 @@ router.post('/register', authMiddleware, async (req, res) => {
         professionalTitle.trim(),
         phone.trim(),
         selectedCategory.name,
-        location.trim(),
-        countryCode.trim().toUpperCase(),
-        countryName.trim(),
-        Number(regionId),
-        regionName.trim(),
-        Number(cityId),
-        cityName.trim(),
+        verifiedLocation,
+        normalizedCountryCode,
+        country.name,
+        region.id,
+        region.name,
+        city.id,
+        city.name,
         experience.trim(),
         description.trim(),
         selectedCategory.id
