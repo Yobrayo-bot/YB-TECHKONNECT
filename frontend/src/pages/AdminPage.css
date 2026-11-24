@@ -188,3 +188,34 @@
   background: #fee2e2;
   color: #b91c1c;
 }
+
+.admin-navigation {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 35px 0 25px;
+}
+
+.admin-navigation button {
+  border: 1px solid #e2e8f0;
+  background: #ffffff;
+  color: #475569;
+  padding: 12px 20px;
+  border-radius: 9px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.admin-navigation button:hover,
+.admin-navigation button.active {
+  background: #14243a;
+  color: #ffffff;
+  border-color: #14243a;
+}
+
+@media (max-width: 480px) {
+  .admin-navigation button {
+    flex: 1 1 40%;
+  }
+}
