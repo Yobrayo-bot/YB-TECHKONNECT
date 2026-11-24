@@ -2,11 +2,26 @@ import { useEffect, useState } from 'react'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import { getJWTToken } from '../lib/neonAuth'
+import './AdminPage.css'
 
 function AdminPage() {
   const [technicians, setTechnicians] = useState([])
   const [loading, setLoading] = useState(true)
   const [message, setMessage] = useState('')
+
+const totalTechnicians = technicians.length
+
+const pendingTechnicians = technicians.filter(
+  (technician) => technician.approval_status === 'pending'
+).length
+
+const approvedTechnicians = technicians.filter(
+  (technician) => technician.approval_status === 'approved'
+).length
+
+const rejectedTechnicians = technicians.filter(
+  (technician) => technician.approval_status === 'rejected'
+).length
 
   async function fetchTechnicians() {
     try {
@@ -85,6 +100,30 @@ function AdminPage() {
             Review technician applications and manage approvals.
           </p>
 
+          <div className="admin-stats">
+
+  <div className="admin-stat-card">
+    <span>Total Technicians</span>
+    <h2>{totalTechnicians}</h2>
+  </div>
+
+  <div className="admin-stat-card pending">
+    <span>Pending Applications</span>
+    <h2>{pendingTechnicians}</h2>
+  </div>
+
+  <div className="admin-stat-card approved">
+    <span>Approved Technicians</span>
+    <h2>{approvedTechnicians}</h2>
+  </div>
+
+  <div className="admin-stat-card rejected">
+    <span>Rejected Technicians</span>
+    <h2>{rejectedTechnicians}</h2>
+  </div>
+
+</div>
+
           {message && <p role="alert">{message}</p>}
 
           {loading ? (
@@ -111,9 +150,9 @@ function AdminPage() {
                       <p>Experience: {technician.experience}</p>
                       <p>{technician.description}</p>
 
-                      <p>
-                        Status: <strong>{technician.approval_status}</strong>
-                      </p>
+                      <div className={`admin-status ${technician.approval_status}`}>
+  {technician.approval_status}
+</div>
 
                       {technician.approval_status !== 'approved' && (
                         <button
