@@ -14,6 +14,12 @@ router.get('/', async (req, res) => {
         tp.professional_title,
         tp.phone,
         tp.location,
+        tp.country_code,
+        tp.country_name,
+        tp.region_id,
+        tp.region_name,
+        tp.city_id,
+        tp.city_name,
         tp.experience,
         tp.description,
         sc.name AS category
@@ -48,11 +54,17 @@ router.post('/register', authMiddleware, async (req, res) => {
       phone,
       category,
       location,
+      countryCode,
+      countryName,
+      regionId,
+      regionName,
+      cityId,
+      cityName,
       experience,
       description
     } = req.body
 
-    // Validate required fields
+    // Validate required professional details
     if (
       !fullName?.trim() ||
       !professionalTitle?.trim() ||
@@ -65,6 +77,23 @@ router.post('/register', authMiddleware, async (req, res) => {
       return res.status(400).json({
         success: false,
         message: 'Please provide all required professional details.'
+      })
+    }
+
+    // Validate structured location details
+    if (
+      !countryCode?.trim() ||
+      !countryName?.trim() ||
+      !regionName?.trim() ||
+      !cityName?.trim() ||
+      !Number.isSafeInteger(Number(regionId)) ||
+      !Number.isSafeInteger(Number(cityId)) ||
+      Number(regionId) <= 0 ||
+      Number(cityId) <= 0
+    ) {
+      return res.status(400).json({
+        success: false,
+        message: 'Please select a valid country, region and city.'
       })
     }
 
@@ -85,7 +114,7 @@ router.post('/register', authMiddleware, async (req, res) => {
 
     const selectedCategory = categoryResult.rows[0]
 
-    // Save the technician profile
+    // Save technician profile and structured location
     const result = await pool.query(
       `INSERT INTO public.technician_profiles (
         user_id,
@@ -94,17 +123,33 @@ router.post('/register', authMiddleware, async (req, res) => {
         phone,
         category,
         location,
+        country_code,
+        country_name,
+        region_id,
+        region_name,
+        city_id,
+        city_name,
         experience,
         description,
         category_id,
         approval_status
       )
-      VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, 'pending')
+      VALUES (
+        $1, $2, $3, $4, $5, $6,
+        $7, $8, $9, $10, $11, $12,
+        $13, $14, $15, 'pending'
+      )
       RETURNING
         user_id,
         full_name,
         professional_title,
         location,
+        country_code,
+        country_name,
+        region_id,
+        region_name,
+        city_id,
+        city_name,
         experience,
         description,
         approval_status`,
@@ -115,6 +160,12 @@ router.post('/register', authMiddleware, async (req, res) => {
         phone.trim(),
         selectedCategory.name,
         location.trim(),
+        countryCode.trim().toUpperCase(),
+        countryName.trim(),
+        Number(regionId),
+        regionName.trim(),
+        Number(cityId),
+        cityName.trim(),
         experience.trim(),
         description.trim(),
         selectedCategory.id
