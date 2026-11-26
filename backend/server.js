@@ -17,7 +17,6 @@ app.use(cors({
 }))
 
 app.use(express.json())
-
 // API Routes
 app.use('/api/technicians', technicianRoutes)
 app.use('/api/admin', adminRoutes)
